@@ -1,2 +1,2 @@
-# CSE-Projects
+# CSE
 Projects from Computer Science
