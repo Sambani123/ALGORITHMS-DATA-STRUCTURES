@@ -1,4 +1,4 @@
-# CSE
+# CSE Projetcs
 Projects from Computer Science
 1. Linked List Operations
 Implemented a program to read integers from a file into a linked list, calculate their sum, and manage memory efficiently.
